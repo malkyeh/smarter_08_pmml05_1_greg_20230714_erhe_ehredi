@@ -1,0 +1,2 @@
+# smarter_08_pmml05_1_greg_20230714_erhe_ehredi
+土雞活動力評估模型
